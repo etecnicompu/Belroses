@@ -33,7 +33,7 @@ IPAddress secondaryDNS(8, 8, 4, 4);      // DNS secundario (Google)
 ![Arduino Upload](.img/arduino_upload.png "upload")
 
 # Navegador: Visualizar interfaz web
-1. Colocar la IP del servidor en el navegador
+1. Colocar la IP del servidor en el navegador  
     ![IP Servidor](.img/ip_servidor.png "ip servidor")
-2. Se observa la interfaz web
+2. Se observa la interfaz web  
     ![Interfaz Web](.img/interfazWeb.png "Interfaz Web")
